@@ -1,0 +1,6 @@
+{
+  "name": "Note Flashcards",
+  "description": "A beautiful and modern musical note flashcard trainer for sheet music with mistake review prioritization, response speed line charts, and daily study notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
